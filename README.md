@@ -1,51 +1,42 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+🧜‍♀️✨ Iemanjá Natty or Not – Sereia Realista Gerada por IA
+📒 Descrição
 
-## 🚀 Introdução
+Este projeto explora o potencial das IAs Generativas para criar imagens hiper-realistas. A proposta foi representar Iemanjá como uma sereia, unindo elementos da cultura afro-brasileira.
 
-> Woooow! Look at this 👀
+🤖 Tecnologias Utilizadas
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+ChatGPT (OpenAI) – para definição do conceito e prompts
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+DALL·E 3 – para geração da imagem realista
 
-### Objetivos
+GitHub – para versionamento e publicação do projeto
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+🧐 Processo de Criação
 
-### Template
+Defini o tema do projeto: uma sereia que representa Iemanjá.
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Criei um prompt detalhado para a geração da imagem.
 
-## 📒 Descrição
-Breve descrição do seu projeto
+A IA gerou a imagem realista a partir da descrição.
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Ajustei pequenos detalhes até chegar ao resultado final.
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Publiquei tudo no repositório para compor o portfólio.
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+🚀 Resultados
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+A imagem final apresenta:
 
-### Exemplos e Insigths
+Uma sereia representando Iemanjá
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+Cenário realista no mar ao pôr do sol
 
-## Links Interessantes
+Cores suaves e estética naturalista
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+Alta fidelidade e detalhes que lembram fotografia real
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+<img width="1024" height="1536" alt="Iemanja" src="https://github.com/user-attachments/assets/76286757-390d-4d05-b31f-ff29887bbf49" />
+
+💭 Reflexão
+
+Criar algo com IA que pareça “natty” é desafiador. A estética fotográfica muito fiel pode facilmente ser confundida com uma fotografia real. Esse processo mostra como as IAs Generativas estão evoluindo e como podem ser usadas com responsabilidade e criatividade.
